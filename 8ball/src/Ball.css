@@ -1,0 +1,16 @@
+
+.Ball-text{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border-radius: 50%;
+    text-align: center;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Ball{
+    text-align: center;
+}
